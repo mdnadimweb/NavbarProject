@@ -11,7 +11,7 @@ nav {
   flex-direction: row;
   height: 80px;
   width: 100%;
-  background-color: antiquewhite;
+  background-color: #fff3e4b4;
 }
 
 .logo img {
@@ -72,4 +72,8 @@ nav {
 
 .buttonBox {
   margin-top: 10px;
+}
+
+.message_required {
+  color: red;
 }
